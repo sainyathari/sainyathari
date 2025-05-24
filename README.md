@@ -38,7 +38,7 @@ Here are a few of the projects I’ve been working on:
 ### 🌟 I'm Currently Learning
   - ReactJS Basics for further improvement of my skills ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
   - Trying to learn DSA and Advanced JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-  - Exploring Tools like Android Debugging Bridge
+  - Exploring Tools like _Android Debugging Bridge_
 ---
 ### 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/sainyathari/
